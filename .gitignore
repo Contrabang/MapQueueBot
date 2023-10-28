@@ -1,0 +1,6 @@
+# Ignore anything from the data or output folders
+/data/*
+/output/*
+
+# Ignore any python cache files
+*.pyc
